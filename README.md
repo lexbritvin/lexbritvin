@@ -7,7 +7,7 @@ I'm a professional Backend developer, team lead and tech enthusiast. :nerd_face:
 * :man_technologist: Using computer since 4, admining since 12, programming since 16
 * :telescope: I explore and review the latest dev technologies
 * :man_firefighter: Full stack Troubleshooter. I can fix your browser, server, printer, TV, or whatever.
-* <img height="20" src="assets/todoist.svg">Todoist Pro and a GTD user
+* <img height="18" src="assets/todoist.svg"> Todoist Pro and a GTD user
 * :airplane: Vacations are for travelling
 
 # Skills
