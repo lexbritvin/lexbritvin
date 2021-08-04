@@ -12,7 +12,7 @@ I'm a professional Backend developer, team lead and tech enthusiast. :nerd_face:
 
 # Skills
 
-* **Languages:** NodeJS, JavaScript, Golang, TypeScript, PHP
+* **Languages:** NodeJS, TypeScript, Golang, PHP
 * **Frameworks:** Express, Sequelize, Mongoose, Jest, Gin, Symfony, Drupal
 * **Databases:** PostgreSQL, MySQL, MongoDB, Redis
 * **Queues:** RabbitMQ, NATS Streaming, Kafka
