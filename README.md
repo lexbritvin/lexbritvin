@@ -1,6 +1,6 @@
 # Hey, I'm Alex 👋
 
-Software engineer and tech enthusiast based in France.
+Software Engineer and Tech Enthusiast based in France.
 I write Go and Rust, and I'll debug anything — from code to kettles.
 
 Currently building [Launchr](https://github.com/launchrctl) — an extensible
