@@ -1,19 +1,8 @@
-# Hi, I'm Alex! :wave:
+# Hey, I'm Alex 👋
 
-# About
+Software engineer and tech enthusiast based in France.
+I write Go and Rust, and I'll debug anything — from code to kettles.
 
-I'm a professional Backend developer, team lead and tech enthusiast. :nerd_face: 
-
-* :man_technologist: Using computer since 4, admining since 12, programming since 16
-* :telescope: I explore and review the latest dev technologies
-* :man_firefighter: Full stack Troubleshooter. I can fix your browser, server, printer, TV, or whatever.
-* <img height="18" src="assets/todoist.svg"> Todoist Pro and a GTD user
-* :airplane: Vacations are for travelling
-
-# Skills
-
-* **Languages:** NodeJS, TypeScript, Golang, PHP
-* **Frameworks:** Express, Sequelize, Mongoose, Jest, Gin, Symfony, Drupal
-* **Databases:** PostgreSQL, MySQL, MongoDB, Redis
-* **Queues:** RabbitMQ, NATS Streaming, Kafka
-* **Tools:** Docker, Kubernetes, Ansible
+Currently building [Launchr](https://github.com/launchrctl) — an extensible
+CLI framework in Go with a plugin architecture.
+When not coding, probably overengineering my home lab.
